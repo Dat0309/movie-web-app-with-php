@@ -37,7 +37,7 @@
             </a>
         </li>
         <li>
-            <a href="now-playing.php">Now Playing Movies
+            <a href="now_playing.php">Now Playing Movies
             </a>
         </li>
         <li>
@@ -45,10 +45,7 @@
             </a>
         </li>
         <li>
-            <a href="tv-series.php">TV SERIES
+            <a href="tv_series.php">TV SERIES
             </a>
         </li>
     </ul>
-</body>
-
-</html>
